@@ -31,7 +31,7 @@ url = "https://api2.aigcbest.top/v1/chat/completions"
 
 headers = {
    'Accept': 'application/json',
-   'Authorization': 'Bearer sk-dpyfnX02Xa6Zk5llXUmNTxrtZ6YaAya404EhUSw1OR3cVLXV',
+   'Authorization': 'Bearer APIKEY',
    'User-Agent': 'Apifox/1.0.0 (https://apifox.com)',
    'Content-Type': 'application/json'
 }
